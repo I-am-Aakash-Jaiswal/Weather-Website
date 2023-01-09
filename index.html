@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyCityWeather</title>
+    
+   
+    <link rel="stylesheet" href=" style.css" />
+  </head>
+  <body>
+    <div class="card">
+      <div class="search">
+   
+          <img
+            src="https://countryflagsapi.com/png/india"
+            alt=""
+            class="flag"
+          />
+      
+        <input
+          type="text"
+          class="search-bar"
+          placeholder="Search for cities..."/>
+        <button class="search-button">
+          <img
+            src="search-icon.png"
+            alt="Search"
+      
+            class="search-icon"
+          />
+        </button>
+      </div>
+      <div class="weather loading">
+        <h1 class="city">Delhi</h1>
+        <h6 class="date">Tues</h6>
+        <h1 class="temp">38°c</h1>
+        <div class="dash">---------------------</div>
+        <div class="flex">
+          <img src="" alt="" class="icon" />
+          <div class="description">Sunny</div>
+        </div>
+      
+        <div class="max-min">
+          <div class="max feels_like">Feels Like:</div>
+          
+          <div class="min feels">40°c</div>
+        </div>
+        <div class="extra">
+          <div class="hum">
+            <img src="humidity.png" class="ex-icon" alt="hum">
+            <div>Humidity</div>
+            <div class="humidity">60%</div>
+          </div>
+          <div class="win">
+            <img src="wind.png" class="ex-icon" alt="hum">
+            <div>Wind speed</div>
+            <div class="wind">2km/hr</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="logic.js"></script>
+  </body>
+</html>
