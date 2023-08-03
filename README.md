@@ -1,4 +1,2 @@
-<img width="456" alt="Screenshot 2023-08-03 175238" src="https://github.com/I-am-Aakash-Jaiswal/Weather-Website/assets/107797140/fca5d156-e52f-4bdb-b0d6-d8744515256f">
-﻿# Weather-Website
-![Uploading Screenshot 2023-08-03 175206.png…]()
-![Uploading Screenshot 2023-08-03 175155.png…]()
+
+<img width="456" alt="Screenshot 2023-08-03 175238" src="http<img width="953" alt="Screenshot 2023-08-03 175206" src="https://github.com/I-am-Aakash-Jaiswal/Weather-Website/assets/107797140/a9a0322d-ac92-4001-a25e-c09dfe70b59d">
